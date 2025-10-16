@@ -1,8 +1,3 @@
-// Project: namanverma-clone-starter
-// Type: Next.js (TypeScript) + Tailwind CSS scaffold
-// Files included below. Copy each file into a new Next.js project (npx create-next-app@latest --typescript) and replace/add.
-
-/* package.json (only show important scripts) */
 {
   "name": "namanverma-clone-starter",
   "private": true,
@@ -183,6 +178,3 @@ export default function Enquire(){
     </div>
   );
 }
-
-
-// End of scaffold
